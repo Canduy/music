@@ -85,6 +85,12 @@ const app = {
             image: './asset/img/thumnail_bed.jpg'
         },
         {
+            name: '♬Cô đơn dành cho ai',
+            singer: 'Lee Ken x Nal',
+            path: './asset/music/♬Lofi Lyrics_ Cô đơn dành cho ai - Lee Ken x Nal.mp3',
+            image: ''
+        },
+        {
             name: 'Chơi',
             singer: 'HIEUTHUHAI',
             path: './asset/music/HIEUTHUHAI  CHƠI rmx FtMANBO LvK x BILLY100.mp3',
